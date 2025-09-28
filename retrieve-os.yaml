@@ -1,0 +1,4 @@
+projectPath: ./OmniStudio
+manifest :
+  - OmniScript/Type_Subtype_English
+manifestOnly:  true
